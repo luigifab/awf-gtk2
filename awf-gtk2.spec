@@ -15,8 +15,8 @@ BuildRequires: desktop-file-utils
 BuildRequires: libnotify-devel >= 0.7.0
 BuildRequires: gcc
 BuildRequires: gettext
-BuildRequires: gtk2-devel >= 2.24.0
-Requires:      gtk2 >= 2.24.0
+BuildRequires: gtk+2.0-devel >= 2.24.0
+Requires:      gtk+2.0 >= 2.24.0
 Requires:      libnotify >= 0.7.0
 Requires:      hicolor-icon-theme
 
